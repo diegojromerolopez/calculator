@@ -14,3 +14,20 @@
 *.rbc
 .bundle/
 vendor/bundle/
+
+# Added by Noctifab pre-flight guardrails
+.noctifab/
+target/
+node_modules/
+dist/
+build/
+bin/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.class
+*.o
+*.so
+*.dylib
+*.log
